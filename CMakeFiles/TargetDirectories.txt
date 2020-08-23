@@ -1,0 +1,3 @@
+/home/umar/learn_opencv/thread_queue_cpp/CMakeFiles/rebuild_cache.dir
+/home/umar/learn_opencv/thread_queue_cpp/CMakeFiles/run.dir
+/home/umar/learn_opencv/thread_queue_cpp/CMakeFiles/edit_cache.dir

@@ -1,0 +1,12 @@
+
+Add  this line in CMAKELists.txt to work with the cpp threads.
+
+SET(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -pthread")
+
+
+typeid can be used to look for dtypes in cpp you need to import the typeinfo as well
+example below:
+
+#include <typeinfo>
+...
+cout << typeid(variable).name() << endl;
